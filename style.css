@@ -32,7 +32,7 @@
 
 }
 .formadores-texto { font-size: 18px;}
-
+.estudantes{background-color:,#643939;}
 .estudante-titulo{
     text-align: center;
     padding: 50px 0;
@@ -43,4 +43,6 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25% ;
 }
-                
+.estudante-imagem{ width 20%;}
+.topico-estudante{
+    padding: 0 60px;}              
